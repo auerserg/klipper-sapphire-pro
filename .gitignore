@@ -1,0 +1,6 @@
+*.bkp
+*.bak
+printer-*cfg
+telegram.conf
+/printer/macros
+/mainsail.cfg
